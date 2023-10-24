@@ -1,0 +1,62 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(253, 149, 167);
+    color: white;
+}
+
+.profilo{
+    width: 110px;
+    border-radius: 100%;
+}
+
+.nome{
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0;
+}
+
+/* invece di ridire ogni volta il box bianco (che tanto è uguale per tutte 
+le sezioni) creo un'altra classe "madre" da usare più volte*/
+.box{
+    background-color: white;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+.contatto{
+    /* forma contratta -> border: 2px solid pink */
+    background-color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-color: rgb(253, 149, 167);
+}
+
+.griglia{
+    display: grid;
+    grid-template-columns:50% 50%;
+    gap: 10px;
+    
+}
+
+.elemento{
+    border: 3px solid rgb(253, 149, 167);
+    padding: 10px;
+    margin-right: 10px;
+    
+}
+
+
+
+
+
+
