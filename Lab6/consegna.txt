@@ -1,0 +1,9 @@
+tutti i campi popolati
+
+p1 == p2 con aggiornamento dinamico
+p1 con più di 4 caratteri OK
+
+flaggato il check me out 
+
+email controllata
+
