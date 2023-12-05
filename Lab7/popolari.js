@@ -14,14 +14,14 @@ var popolari = {
       id: 901362,
       original_language: "en",
       original_title: "Trolls Band Together",
-      overview: "When Branch’s brother, Floyd, is kidnapped for his musical talents by a pair of nefarious pop-star villains, Branch and Poppy embark on a harrowing and emotional journey to reunite the other brothers and rescue Floyd from a fate even worse than pop-culture obscurity.",
+      overview: "Dopo due film all'insegna della vera amicizia e del continuo flirt, Poppy e Branch sono ora ufficialmente, finalmente, una coppia (#broppy)! Man mano che si legano sempre di più, Poppy scopre che Branch ha un passato segreto. Faceva parte della sua boyband preferita, la BroZone, insieme ai suoi quattro fratelli: Floyd, John Dory, Spruce e Clay. I BroZone si sono sciolti quando Branch era ancora un bambino, così come la sua famiglia, e da allora Branch non ha più visto i suoi fratelli.  Ma quando Floyd, il fratello di Branch, viene rapito a causa del suo talento musicale da una coppia di malvagie popstar - Velvet e Veneer - Branch e Poppy intraprendono un viaggio straordinario ed emozionante per riunire gli altri fratelli e salvare Floyd da un destino ancora peggiore dell'oscurità della cultura pop.",
       popularity: 1839.78,
-      poster_path: "/bkpPTZUdq31UGDovmszsg2CchiI.jpg",
+      poster_path: "/gx6sv1g1Z3wLkWLVqN0RbjAfyzO.jpg",
       release_date: "2023-10-12",
-      title: "Trolls",
+      title: "Trolls 3 - Tutti insieme",
       video: false,
-      vote_average: 7.217,
-      vote_count: 189
+      vote_average: 7.178,
+      vote_count: 191
     },
     {
       adult: false,
@@ -33,14 +33,14 @@ var popolari = {
       id: 872585,
       original_language: "en",
       original_title: "Oppenheimer",
-      overview: "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+      overview: "La storia del ruolo di J. Robert Oppenheimer, i quali studi condussero alle scoperte legate alla bomba atomica, con il conseguente utilizzo durante le stragi di Hiroshima e Nagasaki durante la Seconda Guerra Mondiale.",
       popularity: 1672.982,
-      poster_path: "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+      poster_path: "/bbYXxNaOAFtJjQnygqPKm13AC7a.jpg",
       release_date: "2023-07-19",
       title: "Oppenheimer",
       video: false,
-      vote_average: 8.2,
-      vote_count: 4976
+      vote_average: 8.164,
+      vote_count: 4978
     },
     {
       adult: false,
@@ -53,14 +53,34 @@ var popolari = {
       id: 670292,
       original_language: "en",
       original_title: "The Creator",
-      overview: "Amid a future war between the human race and the forces of artificial intelligence, a hardened ex-special forces agent grieving the disappearance of his wife, is recruited to hunt down and kill the Creator, the elusive architect of advanced AI who has developed a mysterious weapon with the power to end the war—and mankind itself.",
+      overview: "In una guerra futura tra la razza umana e le forze dell'intelligenza artificiale, Joshua, un ex agente delle forze speciali in lutto per la scomparsa della moglie, viene reclutato per dare la caccia e uccidere il Creatore, l'inafferrabile architetto dell'intelligenza artificiale avanzata che ha sviluppato una misteriosa arma con il potere di porre fine alla guerra e all'umanità stessa.",
       popularity: 1335.428,
-      poster_path: "/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg",
+      poster_path: "/bLBq86GT2qZVV3nuIqw6KIeah8p.jpg",
       release_date: "2023-09-27",
       title: "The Creator",
       video: false,
-      vote_average: 7.154,
-      vote_count: 1176
+      vote_average: 7.152,
+      vote_count: 1181
+    },
+    {
+      adult: false,
+      backdrop_path: "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
+      genre_ids: [
+        16,
+        35,
+        10751
+      ],
+      id: 1075794,
+      original_language: "en",
+      original_title: "Leo",
+      overview: "Leo è una lucertola di 74 anni che, insieme alla sua migliore amica tartaruga, decide finalmente di scappare dal terrario della classe di liceo in Florida in cui è rimasta rinchiusa per decenni.",
+      popularity: 1267.179,
+      poster_path: "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+      release_date: "2023-11-17",
+      title: "Leo",
+      video: false,
+      vote_average: 7.942,
+      vote_count: 232
     },
     {
       adult: false,
@@ -72,9 +92,9 @@ var popolari = {
       id: 507089,
       original_language: "en",
       original_title: "Five Nights at Freddy's",
-      overview: "Recently fired and desperate for work, a troubled young man named Mike agrees to take a position as a night security guard at an abandoned theme restaurant: Freddy Fazbear's Pizzeria. But he soon discovers that nothing at Freddy's is what it seems.",
+      overview: "Una guardia giurata problematica inizia a lavorare da Freddy Fazbear's Pizza. Mentre trascorre la sua prima notte di lavoro, si rende conto che il turno di notte da Freddy non sarà così facile da superare.",
       popularity: 1077.066,
-      poster_path: "/j9mH1pr3IahtraTWxVEMANmPSGR.jpg",
+      poster_path: "/mmxEjGy1wHy4Frf8Uk1k7mdbW6A.jpg",
       release_date: "2023-10-25",
       title: "Five Nights at Freddy's",
       video: false,
@@ -92,11 +112,11 @@ var popolari = {
       id: 299054,
       original_language: "en",
       original_title: "Expend4bles",
-      overview: "Armed with every weapon they can get their hands on and the skills to use them, The Expendables are the world’s last line of defense and the team that gets called when all other options are off the table. But new team members with new styles and tactics are going to give “new blood” a whole new meaning.",
+      overview: "Il veterano mercenario Barney Ross e la sua squadra stellare, composta dagli uomini più tosti , affrontano una nuova sfida, in una trama fitta di azione. Per superarla ed avere successo, devono ricorrere al loro ingegno, all'esperienza e alla forza bruta che li caratterizza.",
       popularity: 889.087,
-      poster_path: "/iwsMu0ehRPbtaSxqiaUDQB9qMWT.jpg",
+      poster_path: "/do0esctPQkePprjtmtfkaaL7AQv.jpg",
       release_date: "2023-09-15",
-      title: "Expend4bles",
+      title: "I mercen4ri - Expendables",
       video: false,
       vote_average: 6.431,
       vote_count: 810
@@ -112,11 +132,11 @@ var popolari = {
       id: 872906,
       original_language: "hi",
       original_title: "जवान",
-      overview: "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+      overview: "",
       popularity: 784.233,
       poster_path: "/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
       release_date: "2023-09-07",
-      title: "Jawan",
+      title: "जवान",
       video: false,
       vote_average: 7.122,
       vote_count: 119
@@ -132,34 +152,14 @@ var popolari = {
       id: 385687,
       original_language: "en",
       original_title: "Fast X",
-      overview: "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything—and everyone—that Dom loves, forever.",
+      overview: "Nel corso di molte sfide, Dom Toretto e la sua famiglia hanno superato in astuzia, coraggio e abilità tutti i nemici che hanno incontrato sul loro cammino. Ora si trovano di fronte all'avversario più letale che abbiano mai affrontato: una minaccia terribile che emerge dalle ombre del passato, alimentata dalla vendetta, determinata a disperdere la famiglia e a distruggere per sempre tutto e tutti i suoi cari. In \"Fast Five\", Dom e la sua squadra hanno eliminato il famigerato boss della droga brasiliano Hernan Reyes. Quello che non sapevano è che il figlio Dante ha assistito a tutto questo e ha passato gli ultimi 12 anni a elaborare un piano per far pagare a Dom il prezzo più alto.  Il complotto di Dante spingerà la famiglia di Dom da Los Angeles alle catacombe di Roma, dal Brasile a Londra e dal Portogallo all'Antartide. Si stringeranno nuove alleanze e torneranno vecchi nemici. Ma tutto cambia quando Dom scopre che suo figlio di 8 anni è l'obiettivo finale della vendetta di Dante.",
       popularity: 759.254,
-      poster_path: "/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",
+      poster_path: "/hC6mLdlgpFU63FOduX80xaGevGj.jpg",
       release_date: "2023-05-17",
       title: "Fast X",
       video: false,
       vote_average: 7.203,
-      vote_count: 4346
-    },
-    {
-      adult: false,
-      backdrop_path: "/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg",
-      genre_ids: [
-        16,
-        35,
-        10751
-      ],
-      id: 1075794,
-      original_language: "en",
-      original_title: "Leo",
-      overview: "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
-      popularity: 1267.179,
-      poster_path: "/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
-      release_date: "2023-11-17",
-      title: "Leo",
-      video: false,
-      vote_average: 7.937,
-      vote_count: 229
+      vote_count: 4347
     },
     {
       adult: false,
@@ -171,11 +171,11 @@ var popolari = {
       id: 575264,
       original_language: "en",
       original_title: "Mission: Impossible - Dead Reckoning Part One",
-      overview: "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission—not even the lives of those he cares about most.",
+      overview: "Ethan Hunt e la sua squadra dell'IMF si trovano di fronte alla sfida più pericolosa che abbiano mai affrontato: trovare e disinnescare una nuova terrificante arma che minaccia l’ intera umanità. Con il destino del mondo e il controllo del futuro appesi a un filo, la squadra inizierà una frenetica missione in tutto il mondo, per impedire che l’arma cada nelle mani sbagliate. Messo di fronte a un nemico misterioso e onnipotente, tormentato da forze oscure del passato, Ethan sarà costretto a decidere se sacrificare tutto per questa missione, comprese le vite di coloro che gli stanno più a cuore.",
       popularity: 720.588,
-      poster_path: "/NNxYkU70HPurnNCSiCjYAmacwm.jpg",
+      poster_path: "/opMK4RJxZmACWrgfZlOnRp6hsQK.jpg",
       release_date: "2023-07-08",
-      title: "Mission: Impossible - Dead Reckoning Part One",
+      title: "Mission Impossible - Dead Reckoning parte uno",
       video: false,
       vote_average: 7.586,
       vote_count: 2560
@@ -191,14 +191,52 @@ var popolari = {
       id: 753342,
       original_language: "en",
       original_title: "Napoleon",
-      overview: "An epic that details the checkered rise and fall of French Emperor Napoleon Bonaparte and his relentless journey to power through the prism of his addictive, volatile relationship with his wife, Josephine.",
+      overview: "Uno sguardo personale sulle origini del condottiero francese e sulla sua rapida e impetuosa ascesa come imperatore. La storia è raccontata attraverso la lente del rapporto dipendente e volatile di Napoleone con la moglie Giuseppina, suo unico vero amore.",
       popularity: 670.48,
-      poster_path: "/jE5o7y9K6pZtWNNMEw3IdpHuncR.jpg",
+      poster_path: "/5Meo32HdrjIyN7Ne8vxBiPg2nSl.jpg",
       release_date: "2023-11-22",
       title: "Napoleon",
       video: false,
-      vote_average: 6.457,
-      vote_count: 324
+      vote_average: 6.5,
+      vote_count: 328
+    },
+    {
+      adult: false,
+      backdrop_path: "/7dCzb1oa7ACYi66VIrE1wqmftAa.jpg",
+      genre_ids: [
+        28
+      ],
+      id: 660521,
+      original_language: "en",
+      original_title: "The Mercenary",
+      overview: "",
+      popularity: 562.037,
+      poster_path: "/p3wgefagejlefFEDsLRHiXU7NGu.jpg",
+      release_date: "2020-01-07",
+      title: "The Mercenary",
+      video: false,
+      vote_average: 6.25,
+      vote_count: 22
+    },
+    {
+      adult: false,
+      backdrop_path: "/jAW3L7N5ePEnIsBQP5vnmhw1qbl.jpg",
+      genre_ids: [
+        80,
+        28,
+        53
+      ],
+      id: 958263,
+      original_language: "ko",
+      original_title: "독전 2",
+      overview: "Un detective determinato continua la sua ricerca della verità dietro la più grande organizzazione antidroga asiatica e il suo sfuggente capo con cui ha degli affari in sospeso.",
+      popularity: 559.335,
+      poster_path: "/h3G2rjJoOOMOKweAY3YTK0Tnaa0.jpg",
+      release_date: "2023-10-05",
+      title: "Believer 2",
+      video: false,
+      vote_average: 7,
+      vote_count: 36
     },
     {
       adult: false,
@@ -211,14 +249,14 @@ var popolari = {
       id: 926393,
       original_language: "en",
       original_title: "The Equalizer 3",
-      overview: "Robert McCall finds himself at home in Southern Italy but he discovers his friends are under the control of local crime bosses. As events turn deadly, McCall knows what he has to do: become his friends' protector by taking on the mafia.",
+      overview: "Da quando ha abbandonato la sua vita di assassino governativo, Robert McCall (Denzel Washington) ha lottato per rimediare alle orribili azioni compiute in passato e trova una strana consolazione nel perseguire la giustizia in favore degli oppressi. Sentendosi inaspettatamente a casa nel Sud Italia, scopre che i suoi nuovi amici sono sotto il controllo dei boss della criminalità locale. Quando gli eventi precipitano, McCall sa cosa dovrà fare: difendere i suoi amici e sfidare la mafia.",
       popularity: 555.986,
-      poster_path: "/b0Ej6fnXAP8fK75hlyi2jKqdhHz.jpg",
+      poster_path: "/yH8UxT5OytOwA3Tu8GENrJI5Uwr.jpg",
       release_date: "2023-08-30",
-      title: "The Equalizer 3",
+      title: "The Equalizer 3 - Senza tregua",
       video: false,
-      vote_average: 7.426,
-      vote_count: 1740
+      vote_average: 7.424,
+      vote_count: 1741
     },
     {
       adult: false,
@@ -231,14 +269,54 @@ var popolari = {
       id: 695721,
       original_language: "en",
       original_title: "The Hunger Games: The Ballad of Songbirds & Snakes",
-      overview: "64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.",
+      overview: "Anni prima di diventare il tirannico presidente di Panem, il diciottenne Coriolanus Snow è l’ultima speranza per il buon nome della sua casata in declino: un’orgogliosa famiglia caduta in disgrazia nel dopoguerra di Capitol City. Con l’avvicinarsi della decima edizione degli Hunger Games, il giovane Snow teme per la sua reputazione poiché nominato mentore di Lucy Grey Baird, la ragazza tributo del miserabile Distretto 12. Ma quando Lucy Grey magnetizza l’intera nazione di Panem cantando con aria di sfida alla cerimonia della mietitura, Snow comprende che potrebbe ribaltare la situazione a suo favore. Unendo i loro istinti per lo spettacolo e l’astuzia politica, Snow e Lucy mireranno alla sopravvivenza dando vita a una corsa contro il tempo che decreterà chi è l’usignolo e chi il serpente.",
       popularity: 553.155,
-      poster_path: "/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+      poster_path: "/4Rqx9g02vQBeydSOTpJHM5VVBvF.jpg",
       release_date: "2023-11-15",
-      title: "The Hunger Games: The Ballad of Songbirds & Snakes",
+      title: "Hunger Games - La ballata dell'usignolo e del serpente",
       video: false,
       vote_average: 7.294,
-      vote_count: 449
+      vote_count: 450
+    },
+    {
+      adult: false,
+      backdrop_path: "/2X7BAu7x2oMB3cTMF38uJhGSqoB.jpg",
+      genre_ids: [
+        36,
+        28,
+        18
+      ],
+      id: 606870,
+      original_language: "en",
+      original_title: "The Survivor",
+      overview: "Harry Haft è un pugile che ha combattuto i compagni di prigionia nei campi di concentramento per sopravvivere.  Ossessionato dai ricordi e dal suo senso di colpa, tenta di usare combattimenti di alto profilo contro leggende della boxe come Rocky Marciano come un modo per ritrovare il suo primo amore.",
+      popularity: 503.03,
+      poster_path: "/lSmABMwMrNlyhzJJmxZjpWmr4Bp.jpg",
+      release_date: "2022-04-07",
+      title: "Harry Haft - Storia di un sopravvissuto",
+      video: false,
+      vote_average: 7.215,
+      vote_count: 114
+    },
+    {
+      adult: false,
+      backdrop_path: "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
+      genre_ids: [
+        28,
+        878,
+        27
+      ],
+      id: 615656,
+      original_language: "en",
+      original_title: "Meg 2: The Trench",
+      overview: "Tuffatevi in acque sconosciute con una squadra di coraggiosi esploratori nelle profondità più recondite dell’oceano. Il loro viaggio si trasformerà in una spirale di caos quando una diabolica operazione mineraria minaccerà la loro missione e li costringerà ad una rischiosa lotta per la sopravvivenza. Messi alle strette da colossali Megalodonti e da implacabili saccheggiatori dell’ambiente, i nostri eroi dovranno superare i loro spietati predatori in una corsa contro il tempo al cardiopalma.",
+      popularity: 498.577,
+      poster_path: "/aXLb2YWXEammySGBh0m6aELmaNq.jpg",
+      release_date: "2023-08-02",
+      title: "Shark 2 - L'abisso",
+      video: false,
+      vote_average: 6.744,
+      vote_count: 2594
     },
     {
       adult: false,
@@ -251,14 +329,34 @@ var popolari = {
       id: 565770,
       original_language: "en",
       original_title: "Blue Beetle",
-      overview: "Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.",
+      overview: "Il neolaureato Jaime Reyes torna a casa pieno di aspirazioni per il suo futuro ma scoprirà da subito che non è proprio come l’ha lasciata. Mentre cerca il suo scopo nel mondo, il destino fa sì che Jaime si ritrovi inaspettatamente in possesso di un’antica reliquia di biotecnologia aliena: lo Scarabeo. Jamie viene improvvisamente scelto dallo Scarabeo come suo ospite simbiotico e dotato di un’incredibile armatura capace di poteri straordinari e imprevedibili. Il suo destino cambierà per sempre e Jamie si trasformerà nel Supereroe Blue Beetle.",
       popularity: 493.911,
-      poster_path: "/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+      poster_path: "/bRWzcHHdRtkWs0wReFHHsGucA7S.jpg",
       release_date: "2023-08-16",
       title: "Blue Beetle",
       video: false,
       vote_average: 6.945,
       vote_count: 1749
+    },
+    {
+      adult: false,
+      backdrop_path: "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
+      genre_ids: [
+        878,
+        12,
+        28
+      ],
+      id: 609681,
+      original_language: "en",
+      original_title: "The Marvels",
+      overview: "Carol Danvers alias Captain Marvel si è ripresa la sua identità dal tirannico Kree e ha avuto la sua vendetta contro la Suprema Intelligenza. Ma a causa di conseguenze inaspettate, Carol si carica del fardello di un universo destabilizzato. Quando i suoi doveri la mandano in un wormhole anomalo collegato a un rivoluzionario Kree, i suoi poteri si intrecciano con quelli della super fan di Jersey City, Kamala Khan alias Ms. Marvel, e la nipote di Carol da cui si è separata da tempo, il capitano Monica Rambeau. Insieme questo trio improbabile deve fare squadra e imparare a lavorare in sinergia per salvare l’universo nei panni delle “Marvels”.",
+      popularity: 492.065,
+      poster_path: "/fdoQvcDiXuWGZ5fmuECmRWGeMFa.jpg",
+      release_date: "2023-11-08",
+      title: "The Marvels",
+      video: false,
+      vote_average: 6.583,
+      vote_count: 563
     },
     {
       adult: false,
@@ -270,33 +368,14 @@ var popolari = {
       id: 116776,
       original_language: "ja",
       original_title: "ドラゴンボール 魔訶不思議大冒険",
-      overview: "Master Roshi has succeeded at the one mission he valued most: to train Goku and Krillin to become ultimate fighters. So, he arranges for them to test their mettle at a competition hosted by Emperor Chiaotzu. Not everyone's playing by the rules, however, as a member of the ruler's household schemes to use the Dragonballs to extort money and power from the royal.",
+      overview: "Questa volta, i giovani Goku e Crilin si stanno allenando sotto la guida del Maestro Muten, per partecipare ad un Torneo Mondiale d'Arti Marziali che si terrà nel paese di Miifan. L'imperatore del luogo, Jiaozi, sta cercando di ritrovare la sua promessa sposa Ran Ran (Lan Lan nel doppiaggio italiano), scomparsa misteriosamente. In quel mentre l'Eremita della Gru, ministro dell'imperatore, avendo fatto costruire al suo servo Pilaf un Dragon Radar, ha preso l'arnese ed ora lo sta usando per localizzare le sfere del drago; l'Eremita e suo fratello, il mercenario Taobaibai, sostengono che useranno il desiderio di Shenron per ritrovare Ran Ran, ma in realtà stanno pianificando di uccidere Jiaozi con l'aiuto di Tenshinhan e d'impossessarsi di tutto il paese.",
       popularity: 490.916,
-      poster_path: "/5aXG0B3TYTpQsodXzvYCkKQfpB1.jpg",
+      poster_path: "/mBkMgxgSCcjQrgYHd1tzaHvZT8e.jpg",
       release_date: "1988-07-09",
-      title: "Dragon Ball: Mystical Adventure",
+      title: "Dragon Ball - Il torneo di Miifan",
       video: false,
       vote_average: 6.803,
       vote_count: 223
-    },
-    {
-      adult: false,
-      backdrop_path: "/dZbLqRjjiiNCpTYzhzL2NMvz4J0.jpg",
-      genre_ids: [
-        27,
-        53
-      ],
-      id: 951491,
-      original_language: "en",
-      original_title: "Saw X",
-      overview: "Between the events of 'Saw' and 'Saw II', a sick and desperate John Kramer travels to Mexico for a risky and experimental medical procedure in hopes of a miracle cure for his cancer, only to discover the entire operation is a scam to defraud the most vulnerable. Armed with a newfound purpose, the infamous serial killer returns to his work, turning the tables on the con artists in his signature visceral way through devious, deranged, and ingenious traps.",
-      popularity: 472.998,
-      poster_path: "/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg",
-      release_date: "2023-09-26",
-      title: "Saw X",
-      video: false,
-      vote_average: 7.4,
-      vote_count: 1164
     },
     {
       adult: false,
@@ -311,94 +390,16 @@ var popolari = {
       id: 502356,
       original_language: "en",
       original_title: "The Super Mario Bros. Movie",
-      overview: "While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+      overview: "Un idraulico di Brooklyn di nome Mario viaggia attraverso il Regno dei Funghi con una principessa di nome Peach e un fungo antropomorfo di nome Toad per trovare il fratello di Mario, Luigi, e salvare il mondo da uno spietato mostro sputafuoco di nome Bowser.",
       popularity: 490.291,
-      poster_path: "/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
+      poster_path: "/A1H2lnpur1IofI0ufcImcAnSytP.jpg",
       release_date: "2023-04-05",
-      title: "The Super Mario Bros. Movie",
+      title: "Super Mario Bros. Il film",
       video: false,
       vote_average: 7.747,
-      vote_count: 7258
-    },
-    {
-      adult: false,
-      backdrop_path: "/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg",
-      genre_ids: [
-        28,
-        878,
-        27
-      ],
-      id: 615656,
-      original_language: "en",
-      original_title: "Meg 2: The Trench",
-      overview: "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
-      popularity: 498.577,
-      poster_path: "/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
-      release_date: "2023-08-02",
-      title: "Meg 2: The Trench",
-      video: false,
-      vote_average: 6.7,
-      vote_count: 2593
-    },
-    {
-      adult: false,
-      backdrop_path: "/r7DuyYJ0N3cD8bRKsR5Ygq2P7oa.jpg",
-      genre_ids: [
-        12,
-        28,
-        18
-      ],
-      id: 980489,
-      original_language: "en",
-      original_title: "Gran Turismo",
-      overview: "The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.",
-      popularity: 472.682,
-      poster_path: "/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg",
-      release_date: "2023-08-09",
-      title: "Gran Turismo",
-      video: false,
-      vote_average: 7.995,
-      vote_count: 1516
-    },
-    {
-      adult: false,
-      backdrop_path: "/feSiISwgEpVzR1v3zv2n2AU4ANJ.jpg",
-      genre_ids: [
-        878,
-        12,
-        28
-      ],
-      id: 609681,
-      original_language: "en",
-      original_title: "The Marvels",
-      overview: "Carol Danvers, aka Captain Marvel, has reclaimed her identity from the tyrannical Kree and taken revenge on the Supreme Intelligence. But unintended consequences see Carol shouldering the burden of a destabilized universe. When her duties send her to an anomalous wormhole linked to a Kree revolutionary, her powers become entangled with that of Jersey City super-fan Kamala Khan, aka Ms. Marvel, and Carol’s estranged niece, now S.A.B.E.R. astronaut Captain Monica Rambeau. Together, this unlikely trio must team up and learn to work in concert to save the universe.",
-      popularity: 492.065,
-      poster_path: "/Ag3D9qXjhJ2FUkrlJ0Cv1pgxqYQ.jpg",
-      release_date: "2023-11-08",
-      title: "The Marvels",
-      video: false,
-      vote_average: 6.584,
-      vote_count: 562
-    },
-    {
-      adult: false,
-      backdrop_path: "/7dCzb1oa7ACYi66VIrE1wqmftAa.jpg",
-      genre_ids: [
-        28
-      ],
-      id: 660521,
-      original_language: "en",
-      original_title: "The Mercenary",
-      overview: "When a mission in South America goes wrong a mercenary is left for dead, but he is nursed back to health and reborn with a new outlook on life. But his peaceful days are short-lived when mercenaries he used to work with cross his path again and he is forced to revisit and face his own demons.",
-      popularity: 562.037,
-      poster_path: "/p3wgefagejlefFEDsLRHiXU7NGu.jpg",
-      release_date: "2020-01-07",
-      title: "The Mercenary",
-      video: false,
-      vote_average: 6.25,
-      vote_count: 22
+      vote_count: 7260
     }
   ],
-  total_pages: 41534,
-  total_results: 830661
+  total_pages: 41536,
+  total_results: 830715
 }
